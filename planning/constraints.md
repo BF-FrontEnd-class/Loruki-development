@@ -12,5 +12,5 @@
 ## Internal: Involuntary
 
 - Team members have different individual skill levels
-- Team membes have their different ideas about the project it may clash within
+- Team members have their different ideas about the project it may clash within
   the team.
