@@ -8,6 +8,16 @@
     "Todosm",
     "wireframe",
     "Ponomarev",
+    "Milena",
+    "Komal",
+    "Milena",
+    "Ponomarev",
+    "Lant",
+    "Loruki",
+    "Todosm",
+    "Wireframe",
+    "Ponomarev",
+    "lant",
     "Yodiz",
     "Zepel",
     "Excalidraw",
@@ -20,9 +30,8 @@
     "christiaan",
     "Milena",
     "Komal",
-    "Lant"
+    "Lant",
   ],
-
   "ignorePaths": [
     "node_modules/**",
     "package.json",
