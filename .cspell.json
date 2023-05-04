@@ -19,6 +19,10 @@
     "verwijs",
     "Todos"
   ],
+  "words": ["HackYourFutureBelgium", "HackYourFuture",
+   "Nepo", "Loruki", "Todosm", "wireframe","Wireframe",
+   "Ponomarev", "lant", "Yodiz", "Zepel", "Excalidraw", 
+   "Wireframes", "Bilde", "Christiaan", "Verwijs", "Loruki", "Todos"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
