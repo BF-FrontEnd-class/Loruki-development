@@ -1,6 +1,7 @@
-# Name of project
+# Loruki rebuild
 
-> A longer description
+> Loruki is a small cloud hosting provider that offers a variety of hosting
+> services, including web hosting, cloud storage, and database management.n
 
 ## Table of contents
 
