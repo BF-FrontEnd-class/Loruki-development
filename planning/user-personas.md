@@ -4,7 +4,7 @@
 
 <!-- some introduction -->
 
-![img](../img/developer.png)
+![img](../public/developer.png)
 
 <!-- a persona -->
 
@@ -24,14 +24,14 @@
 
 <!-- some introduction -->
 
-![img](../img/sarah.png)
+![img](../public/sarah.png)
 
 <!-- a persona -->
 
 ## Their Role: Small business owner
 
-- **Bio**: Small business owner:Sarah is the owner of a small business that
-  specializes in handmade crafts.
+- **Bio**: Sarah is the owner of a small business that specializes in handmade
+  crafts.
 
 - **Needs/Goals**: She wants to build a website to showcase her products and
   sell them online.
