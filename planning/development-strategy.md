@@ -1,55 +1,330 @@
-# Project Name
+# Loruki
 
-<!-- describe your project -->
-
----
-
-## Setup
-
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+> Loruki is a small cloud hosting provider that offers a variety of hosting
+> services, including web hosting, cloud storage, and database management.
 
 ---
 
-<!-- copy this section once for each must-have user story -->
+## 0.Setup
 
-## user story
+- create a new repo form the template `template-html-css`
+- add collaborators
+- turn on github pages and give them `write` access
+- protect `main` branch
+- turn on discussion
 
-<!-- each issue created from this section will have the `for: user story` label -->
+## 1. Homepage Wireframe
 
-> "as a ... i can ... so that ..."
+![wireframe](../public/design_loruki.png)
 
-<!-- write any extra notes or description -->
+## 1.1 Logos
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+### As a user I want to see the logo in the left-top of the page
 
-### Logic: user story
+- This user story is developed on branch `logo`.
+- This branch is merged to `main` branch after completion.
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### html
 
-### Interface: user story
+- add `img`
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### css
 
-### Interaction: user story
+- add class `logo-img` to `img`
+- make `display`flex and add `padding`
+- add `width` and `height`
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+## 1.2 Title
 
-### Documentation: user story
+### As a user I want to see the title of the page under the navigation bar
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- This user story is developed on branch `title`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `header` tag
+- add `h1` for the page title
+
+### css
+
+- add class`centered-item` to the `header`
+- make the display `flex` and add `padding`
+- style `font`
+
+## 1.3 Navigation links
+
+### As a user I want to see navigation links
+
+- This user story is developed on branch `navLinks`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `nav`
+- add a `div` parent
+- add `a`
+
+### css
+
+- add class `bottom-divider` to `nav`
+- add `border`
+- add class `spaced-items` to the parent `div`
+- make display `flex` and add `padding`
+
+## 1.4 Description
+
+### As a user I want to see description of the page
+
+- This user story is developed on branch `description`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `section`
+- add `p`
+
+### css
+
+- add id `summary-info` to both `section`
+
+## 1.5 Form
+
+### As a user I want to see extra link one the page
+
+- This user story is developed on branch `form`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `form`
+
+### css
+
+- add id `form`
+
+## 2. Features
+
+![wireframe](../public/features.png)
+
+## 2.1 Logos
+
+### As a user I want to see the logo in the left-top of the page
+
+- This user story is developed on branch `logo2`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `img`
+
+### css
+
+- add class `logo-img` to `img`
+- make `display`flex and add `padding`
+
+## 2.2 Navigation links
+
+### As a user I want to see navigation links on the top right side
+
+- This user story is developed on branch `navLinks2`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `nav`
+- add a `div` parent
+- add `a`
+
+### css
+
+- add class `bottom-divider` to `nav`
+- add `border`
+- add class `spaced-items` to the parent `div`
+- make display `flex` and add `padding`
+
+## 2.3 Description
+
+### As a user I want to see description of the page
+
+- This user story is developed on branch `description2`.
+- This branch is merged to `main` branch after completion.
+
+## html
+
+- add `section`
+- add `p`
+
+### css
+
+- add id `summary-info` to both `section`
+
+## 2.3 Features
+
+### As a user I want to see features on the right side of the page
+
+- This user story is developed on branch `features`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `section`
+- add `p`
+
+### css
+
+- add id `summary-info` to both `section`
+
+## 2.4 Image
+
+### As a user I want to see the two images on the left side of the page
+
+- This user story is developed on branch `image2`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `img`
+
+### css
+
+- add and class `tree-img` to both `img`
+- add `display`
+- add `width`, `padding`, `margin`, `box-shadow`, `border-radius`
+
+## 2.5 Footer
+
+### As a user I want to see the footer at the bottom of the page
+
+- This user story is developed on branch `footer1`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `footer`
+- add `p`
+- add `a`
+
+### css
+
+- add class `top-divider` and `spaced-items` to `footer`
+- add display, position
+
+## 3. Docs wireframe
+
+![wireframe](../public/docs.png)
+
+## 3.1 Logos
+
+### As a user I want to see the logo in the left-top of the page
+
+- This user story is developed on branch `logo3`
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `img`
+
+### css
+
+- add class `logo-img` to `img`
+- make `display`flex and add `padding`
+- add `width` and `height`
+
+## 3.2 Navigation links
+
+### As a user I want to see navigation links
+
+- This user story is developed on branch `navLinks3`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `nav`
+- add a `div` parent
+- add `a`
+
+### css
+
+- add class `bottom-divider` to `nav`
+- add `border`
+- add class `spaced-items` to the parent `div`
+- make display `flex` and add `padding`
+
+## 3.3 Aside
+
+### As a user I want to see extra link one the page
+
+- This user story is developed on branch `aside3`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `aside`
+
+### css
+
+- add class `aside`
+
+## 3.4 Introduction
+
+### As a user I want to see introduction in the middle left side of the page
+
+- This user story is developed on branch `introduction3`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `a`
+
+### css
+
+- add class `intro`
+
+## 3.5 Image
+
+### As a user I want to see image in the left of the page
+
+- This user story is developed on branch `image3`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `img`
+
+### css
+
+- add and class `img2` to both `img`
+- add `display`
+
+## 3.6 Documents
+
+### As a user I want to see document on the page
+
+- This user story is developed on branch `documents3`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `doc`
+
+### css
+
+- add class `doc`
+
+## 3.7 Footer
+
+### As a user I want to see the footer at the bottom of the page
+
+- This user story is developed on branch `footer3`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add `footer`
+- add `p`
+- add `a`
+
+### css
+
+- add class `footer`
