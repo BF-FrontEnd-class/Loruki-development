@@ -3,8 +3,6 @@
 > Loruki is a small cloud hosting provider that offers a variety of hosting
 > services, including web hosting, cloud storage, and database management.
 
----
-
 ## 0.Setup
 
 - create a new repo form the template `template-html-css`
@@ -33,6 +31,11 @@
 - add class `logo-img` to `img`
 - make `display`flex and add `padding`
 - add `width` and `height`
+- add img
+
+### css
+
+- add class logo
 
 ## 1.2 Title
 
@@ -51,6 +54,12 @@
 - add class`centered-item` to the `header`
 - make the display `flex` and add `padding`
 - style `font`
+- add `img`
+
+### css
+
+- add parent
+- make the display `flex` and add `padding`
 
 ## 1.3 Navigation links
 
@@ -71,6 +80,13 @@
 - add `border`
 - add class `spaced-items` to the parent `div`
 - make display `flex` and add `padding`
+- add img
+
+### css
+
+class parent
+
+- class parent
 
 ## 1.4 Description
 
@@ -87,6 +103,11 @@
 ### css
 
 - add id `summary-info` to both `section`
+- add `main` elem
+
+### css
+
+- add class parent
 
 ## 1.5 Form
 
@@ -102,6 +123,56 @@
 ### css
 
 - add id `form`
+- add img
+
+### css
+
+- add- parent
+
+## 1.6 Container
+
+### As a user I want to see container 
+
+- This user story is developed on branch `container`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add img
+
+### css
+
+- class parent
+
+## 1.7 Image
+
+### As a user I want to see the logo in the left-top of the page
+
+- This user story is developed on branch `image`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add img
+
+### css
+
+- add parent
+
+## 1.8 Footer
+
+### As a user I want to see the footer at the bottom of the page
+
+- This user story is developed on branch `footer`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add img
+
+### css
+
+- class parent
 
 ## 2. Features
 
@@ -112,6 +183,7 @@
 ### As a user I want to see the logo in the left-top of the page
 
 - This user story is developed on branch `logo2`.
+- This user story is developed on branch `logo`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -128,6 +200,17 @@
 ### As a user I want to see navigation links on the top right side
 
 - This user story is developed on branch `navLinks2`.
+- add img
+
+### css
+
+- add class parent
+
+## 2.2 Title
+
+### As a user I want to see the title of the page under the navigation bar
+
+- This user story is developed on branch `title`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -164,6 +247,33 @@
 ### As a user I want to see features on the right side of the page
 
 - This user story is developed on branch `features`.
+- add img
+
+### css
+
+- add class parent
+- make the display `flex` and add `padding`
+
+## 2.3 Navigation links
+
+### As a user I want to see navigation links
+
+- This user story is developed on branch `navLinks`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add ing
+
+### css
+
+- add class parent
+
+## 2.4 Description
+
+### As a user I want to see description of the page
+
+- This user story is developed on branch `description`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -180,6 +290,17 @@
 ### As a user I want to see the two images on the left side of the page
 
 - This user story is developed on branch `image2`.
+- add img
+
+### css
+
+- add class parent
+
+## 2.5 Image
+
+### As a user I want to see the logo in the left-top of the page
+
+- This user story is developed on branch `image`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -197,6 +318,17 @@
 ### As a user I want to see the footer at the bottom of the page
 
 - This user story is developed on branch `footer1`.
+- add img
+
+### css
+
+- add class parent
+
+## 2.6 Footer
+
+### As a user I want to see the footer at the bottom of the page
+
+- This user story is developed on branch `footer`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -209,6 +341,11 @@
 
 - add class `top-divider` and `spaced-items` to `footer`
 - add display, position
+- add img
+
+### css
+
+- add class parent
 
 ## 3. Docs wireframe
 
@@ -219,6 +356,22 @@
 ### As a user I want to see the logo in the left-top of the page
 
 - This user story is developed on branch `logo3`
+- This user story is developed on branch `logo`.
+- This branch is merged to `main` branch after completion.
+
+### html
+
+- add img
+
+### css
+
+- add class parent
+
+## 3.2 Title
+
+### As a user I want to see the title of the page under the navigation bar
+
+- This user story is developed on branch `title`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -236,6 +389,17 @@
 ### As a user I want to see navigation links
 
 - This user story is developed on branch `navLinks3`.
+- add img
+
+### css
+
+- add class parent
+
+## 3.3 Navigation links
+
+### As a user I want to see navigation links
+
+- This user story is developed on branch `navLinks`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -256,6 +420,17 @@
 ### As a user I want to see extra link one the page
 
 - This user story is developed on branch `aside3`.
+- add img
+
+### css
+
+- add class parent
+
+## 3.4 Aside
+
+### As a user I want to see extra link one the page
+
+- This user story is developed on branch `aside`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -271,6 +446,17 @@
 ### As a user I want to see introduction in the middle left side of the page
 
 - This user story is developed on branch `introduction3`.
+- add img
+
+### css
+
+- add class parent
+
+## 3.5 Introduction
+
+### As a user I want to see introduction --------
+
+- This user story is developed on branch `introduction`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -286,6 +472,17 @@
 ### As a user I want to see image in the left of the page
 
 - This user story is developed on branch `image3`.
+- add img
+
+### css
+
+- add class parent
+
+## 3.6 Image
+
+### As a user I want to see the logo in the left-top of the page
+
+- This user story is developed on branch `image`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -302,6 +499,17 @@
 ### As a user I want to see document on the page
 
 - This user story is developed on branch `documents3`.
+- add img
+
+### css
+
+- add class parent
+
+## 3.7 Footer
+
+### As a user I want to see the footer at the bottom of the page
+
+- This user story is developed on branch `footer`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -317,6 +525,17 @@
 ### As a user I want to see the footer at the bottom of the page
 
 - This user story is developed on branch `footer3`.
+- add img
+
+### css
+
+- add class parent
+
+## 3.8 Documents
+
+### As a user I want to see the footer at the bottom of the page
+
+- This user story is developed on branch `documents`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -328,3 +547,8 @@
 ### css
 
 - add class `footer`
+- add img
+
+### css
+
+- add class parent
