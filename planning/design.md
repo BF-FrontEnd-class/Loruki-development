@@ -2,16 +2,28 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
+> This is the design of our website.
 
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+We are create website which has survey form. We navigate and create a logo for
+website. We have create title, description and image. And the end we create a
+footer.
+
+We choose that design because it's user usability and it's easy to use.
+
+We choose white and blue as a color because it's a user friendly
 
 ---
 
 ## Wireframe(s)
 
-> Include your wireframe(s) and link to wireframe
+### Home Page
 
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+> ![Design](../public/design_loruki.png)
+
+### Features page
+
+> ![Design](../public/design_features.png)
+
+### Docs page
+
+> ![Design](../public/design_docs.png)
