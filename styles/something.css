@@ -55,7 +55,18 @@ a {
   justify-content: space-between;
 }
 
+/* Description */
+
+.showcase-text {
+  animation: slideInFromLeft 1s ease-in;
+}
+
 /* Form */
+
+.showcase p {
+  margin: 20px 0;
+}
+
 .showcase {
   height: 400px;
   background-color: var(--primary-color);
@@ -63,22 +74,10 @@ a {
   position: relative;
 }
 
-.showcase h1 {
-  font-size: 40px;
-}
-
-.showcase p {
-  margin: 20px 0;
-}
-
 .showcase .grid {
   overflow: visible;
   grid-template-columns: 55% auto;
   gap: 30px;
-}
-
-.showcase-text {
-  animation: slideInFromLeft 1s ease-in;
 }
 
 .showcase-form {
@@ -139,4 +138,15 @@ a {
 
 .fa-twitter:hover {
   color: #1c9cea;
+}
+
+/* Animations */
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
 }
