@@ -163,6 +163,11 @@ a {
   grid-row: 1 / span 2;
 }
 
+/* Cloud */
+.cloud .grid {
+  grid-template-columns: 4fr 3fr;
+}
+
 /* Footer */
 .fa-github:hover {
   color: #000;
