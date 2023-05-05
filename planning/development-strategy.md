@@ -142,7 +142,7 @@ class parent
 
 ## 2. Features
 
-![wireframe](../public/features.png)
+![wireframe](../public/design_features.png)
 
 ## 2.1 Logos
 
@@ -237,7 +237,7 @@ class parent
 
 ## 3. Docs wireframe
 
-![wireframe](../public/docs.png)
+![wireframe](../public/design_docs.png)
 
 ## 3.1 Logos
 
