@@ -21,6 +21,10 @@ body {
   line-height: 1.6;
 }
 
+ul {
+  list-style-type: none;
+}
+
 a {
   text-decoration: none;
   color: #333;
@@ -34,6 +38,11 @@ a {
 
 .footer .social a {
   margin: 0 10px;
+}
+
+/* title */
+.showcase h1 {
+  font-size: 40px;
 }
 
 /* Navbar */
@@ -121,6 +130,17 @@ a {
   -webkit-transform: skewY(-3deg);
   -moz-transform: skewY(-3deg);
   -ms-transform: skewY(-3deg);
+}
+
+/* Cli */
+.cli .grid {
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
+
+.cli .grid > *:first-child {
+  grid-column: 1 / span 2;
+  grid-row: 1 / span 2;
 }
 
 /* Footer */
