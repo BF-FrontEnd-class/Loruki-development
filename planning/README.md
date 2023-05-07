@@ -10,19 +10,23 @@
 
 > The user of the project is TCS as it is a service provide company.
 
-![Design](../public/design_loruki.png)
+![Design](../public/loruki_screen.png)
 
 ## Technologies
 
     Node 14.16.0
     VSC code
     NMP
-    ...
-    ...
+    Git
+    HTML
+    CSS
 
 ## Setup
 
-    npm run start
+- create a new repo form the template `template-html-css`
+- add collaborators turn on github pages and give them `write` access
+- protect `main` branch
+- npm run start
 
 ## Code Examples
 
@@ -32,12 +36,23 @@
 
 List of features ready and Todos for future development
 
-## Status:
+## Status
 
-Project is in progress.
+Project is done.
 
 ## Inspiration
 
+- Webpage is inspired by the programmer fanatic.
+
 ## Group Members Name
 
-- Mileka, Fernando , Jean Paul , Komal
+- [Komal](https://github.com/komal-89)
+- [Jean Paul](https://github.com/iradukundajp)
+- [Fernando](https://github.com/FernandoYsita)
+- [Milena](https://github.com/Mileenka)
+
+## Links-
+
+- [Repo](https://github.com/BF-FrontEnd-class/agile-development-group2-loruki-rebuild.git)
+
+- [Live](https://bf-frontend-class.github.io/agile-development-group2-loruki-rebuild/)
