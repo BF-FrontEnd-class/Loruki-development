@@ -1,21 +1,20 @@
 # Retrospective
 
-## Stop Doing
+We as a team able to finish our project on given timeline and complete all the
+coding required in project.
 
 ## Continue Doing
 
-## Start Doing
+- We continue working and complete our project.
 
-## Lessons Learned
+### Lessons Learned
 
----
-
-## Strategy vs. Board
+- We learned the basic of designing website and work in organize way.
 
 ### What parts of your plan went as expected?
 
+- Planning and design of the project went well.
+
 ### What parts of your plan did not work out?
 
-### Did you need to add things that weren't in your strategy?
-
-### Or remove extra steps?
+- We tried our best to complete the project only time constrain is the issue.
