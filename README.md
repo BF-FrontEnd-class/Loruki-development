@@ -3,32 +3,45 @@
 - Loruki is a small cloud hosting provider that offers a variety of hosting
   > services, including web hosting, cloud storage, and database management.we
   > sit together and discuss about the project and distribute the work to do.
+  
 ## General
 
-- we did brain storming with discussion about project and planning of action.
+- A cloud hosting platform, the objective is reverse engineering  the website using 
+  agile methodology
 
 > The user of the project is TCS as it is a service provide company.
 ![Design](public/loruki_screen.png)
 
 ## Technologies
 
-    Node 14.16.0
-    VSC code
-    NMP
-    Git
-    HTML
-    CSS
+  Node 14.16.0
+  VSC code
+  HTML5
+  CSS3
 
 ## Setup
 
-- create a new repo form the template `template-html-css`
-- add collaborators turn on github pages and give them `write` access
-- protect `main` branch
-- npm run start
+- clone the repo
+- `npm install`
+- use `live server` to preview the website
 
 ## Code Examples
 
-// the hello world program console.log("Hello World");
+```HTML
+    <!-- Navbar -->
+    <div class="navbar">
+      <div class="container flex">
+        <h1 class="logo"><a href="index.html">Loruki.</a></h1>
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="./pages/features-page.html">Features</a></li>
+            <li><a href="./pages/docs-page.html">Docs</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+```
 
 ## Features
 
@@ -40,7 +53,7 @@ Project is done.
 
 ## Inspiration
 
-- Webpage is inspired by the programmer fanatic.
+- Webpage is inspired by Traversy media.
 
 ## Group Members Name
 
