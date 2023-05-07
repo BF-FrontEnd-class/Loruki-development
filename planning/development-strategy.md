@@ -15,7 +15,7 @@
 
 ## 1. Homepage Wireframe
 
-![wireframe](../public/design_loruki.png)
+![wireframe](../public/design-loruki.png)
 
 ## 1.1 Logos
 

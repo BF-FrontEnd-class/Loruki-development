@@ -32,12 +32,12 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       | Tuesday | Wednesday |
-| --------- | :-----: | :-------: |
-| Milena    | 09 - 17 |  09 - 17  |
-| Fernando  | 09 - 17 |  09 - 17  |
-| Komal     | 09 - 17 |  09 - 17  |
-| Jean Paul | 09 - 17 |  09 - 17  |
+| Day       | Thursday | Friday  |
+| --------- | :------: | :-----: |
+| Milena    | 09 - 17  | 09 - 17 |
+| Fernando  | 09 - 17  | 09 - 17 |
+| Komal     | 09 - 17  | 09 - 17 |
+| Jean Paul | 09 - 17  | 09 - 17 |
 
 ### How many hours everyone has per day
 

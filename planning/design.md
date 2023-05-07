@@ -18,7 +18,7 @@ We choose white and blue as a color because it's a user friendly
 
 ### Home Page
 
-> ![Design](../public/design_loruki.png)
+> ![Design](../public/design-loruki.png)
 
 ### Features page
 
